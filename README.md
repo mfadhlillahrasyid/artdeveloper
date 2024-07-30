@@ -3,4 +3,8 @@ Art Developer Website
 Dibuat menggunakan PHP dan Javascript Sederhana
 Menggunakan Basic HTML dan Bootstrapp sebagai UI Framework
 
-![artdev com_](https://github.com/user-attachments/assets/d8fd1a38-bf20-41a8-87ce-067ebc63589d)
+![1](https://github.com/user-attachments/assets/a92d3218-d8fd-439c-9d34-658c54caf421)
+
+![2](https://github.com/user-attachments/assets/955a0a59-a43b-4a13-801e-93274ca4367a)
+
+
