@@ -1,7 +1,6 @@
 Art Developer Website 
 
-Dibuat menggunakan PHP dan Javascript Sederhana
-Menggunakan Basic HTML dan Bootstrapp sebagai UI Framework
+Art Developer merupakan website Digital Agensi yang Melayani jasa mulai dari Digital Marketing, Website Development hingga Graphic Design, Dibuat menggunakan PHP dan Javascript Sederhana Menggunakan Basic HTML dan Bootstrapp sebagai UI Framework
 
 ![1](https://github.com/user-attachments/assets/a92d3218-d8fd-439c-9d34-658c54caf421)
 
